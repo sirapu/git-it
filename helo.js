@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("First Argument is: " + process.argv[2]);
+//console.log("First Argument is: " + process.argv[2]);
