@@ -1,2 +1,3 @@
-hello git-it tutorial. hope I'm doing well.
-ein klarer sieg
+This is the nodeioschool git-it tutorial.
+
+Nothing special to find here.
